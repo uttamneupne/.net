@@ -1,0 +1,5 @@
+D:\lict\6th sem\dotnet\multipleInheritance\multipleInheritance\obj\Debug\net6.0\multipleInheritance.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\multipleInheritance\multipleInheritance\obj\Debug\net6.0\multipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\multipleInheritance\multipleInheritance\obj\Debug\net6.0\multipleInheritance.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\multipleInheritance\multipleInheritance\obj\Debug\net6.0\multipleInheritance.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\multipleInheritance\multipleInheritance\obj\Debug\net6.0\multipleInheritance.csproj.CoreCompileInputs.cache

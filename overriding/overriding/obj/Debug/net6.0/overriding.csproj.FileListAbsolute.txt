@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\overriding\overriding\bin\Debug\net6.0\overriding.exe
+D:\lict\6th sem\dotnet\overriding\overriding\bin\Debug\net6.0\overriding.deps.json
+D:\lict\6th sem\dotnet\overriding\overriding\bin\Debug\net6.0\overriding.runtimeconfig.json
+D:\lict\6th sem\dotnet\overriding\overriding\bin\Debug\net6.0\overriding.dll
+D:\lict\6th sem\dotnet\overriding\overriding\bin\Debug\net6.0\overriding.pdb
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\overriding.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\overriding.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\overriding.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\overriding.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\overriding.dll
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\refint\overriding.dll
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\overriding.pdb
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\overriding.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\overriding\overriding\obj\Debug\net6.0\ref\overriding.dll
