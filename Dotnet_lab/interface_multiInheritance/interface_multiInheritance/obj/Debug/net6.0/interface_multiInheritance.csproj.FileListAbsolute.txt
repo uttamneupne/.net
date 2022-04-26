@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\bin\Debug\net6.0\interface_multiInheritance.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\bin\Debug\net6.0\interface_multiInheritance.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\bin\Debug\net6.0\interface_multiInheritance.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\bin\Debug\net6.0\interface_multiInheritance.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\bin\Debug\net6.0\interface_multiInheritance.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\interface_multiInheritance.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\interface_multiInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\interface_multiInheritance.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\interface_multiInheritance.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\interface_multiInheritance.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\interface_multiInheritance.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\refint\interface_multiInheritance.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\interface_multiInheritance.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\interface_multiInheritance.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\interface_multiInheritance\interface_multiInheritance\obj\Debug\net6.0\ref\interface_multiInheritance.dll

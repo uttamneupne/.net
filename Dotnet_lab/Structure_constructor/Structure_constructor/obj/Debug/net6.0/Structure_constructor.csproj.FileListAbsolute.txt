@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\bin\Debug\net6.0\Structure_constructor.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\bin\Debug\net6.0\Structure_constructor.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\bin\Debug\net6.0\Structure_constructor.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\bin\Debug\net6.0\Structure_constructor.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\bin\Debug\net6.0\Structure_constructor.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\Structure_constructor.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\Structure_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\Structure_constructor.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\Structure_constructor.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\Structure_constructor.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\Structure_constructor.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\refint\Structure_constructor.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\Structure_constructor.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\Structure_constructor.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Structure_constructor\Structure_constructor\obj\Debug\net6.0\ref\Structure_constructor.dll

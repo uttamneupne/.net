@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\bin\Debug\net6.0\Queue.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\bin\Debug\net6.0\Queue.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\bin\Debug\net6.0\Queue.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\bin\Debug\net6.0\Queue.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\Queue.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\refint\Queue.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\Queue.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Queue\Queue\obj\Debug\net6.0\ref\Queue.dll

@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\bin\Debug\net6.0\file.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\bin\Debug\net6.0\file.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\bin\Debug\net6.0\file.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\bin\Debug\net6.0\file.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\bin\Debug\net6.0\file.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\file.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\file.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\file.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\file.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\file.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\file.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\refint\file.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\file.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\file.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\file\file\obj\Debug\net6.0\ref\file.dll

@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\bin\Debug\net6.0\Seal_class.exe
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\bin\Debug\net6.0\Seal_class.deps.json
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\bin\Debug\net6.0\Seal_class.runtimeconfig.json
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\bin\Debug\net6.0\Seal_class.dll
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\bin\Debug\net6.0\Seal_class.pdb
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\Seal_class.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\Seal_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\Seal_class.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\Seal_class.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\Seal_class.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\Seal_class.dll
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\refint\Seal_class.dll
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\Seal_class.pdb
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\Seal_class.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Seal_class\Seal_class\obj\Debug\net6.0\ref\Seal_class.dll

@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\bin\Debug\net6.0\student_dictonary.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\bin\Debug\net6.0\student_dictonary.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\bin\Debug\net6.0\student_dictonary.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\bin\Debug\net6.0\student_dictonary.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\bin\Debug\net6.0\student_dictonary.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\student_dictonary.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\student_dictonary.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\student_dictonary.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\student_dictonary.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\student_dictonary.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\student_dictonary.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\refint\student_dictonary.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\student_dictonary.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\student_dictonary.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\student_dictonary\student_dictonary\obj\Debug\net6.0\ref\student_dictonary.dll

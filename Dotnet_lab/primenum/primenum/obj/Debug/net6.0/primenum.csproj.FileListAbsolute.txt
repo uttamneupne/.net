@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\primenum\primenum\bin\Debug\net6.0\primenum.exe
+C:\Users\ASUS\source\repos\primenum\primenum\bin\Debug\net6.0\primenum.deps.json
+C:\Users\ASUS\source\repos\primenum\primenum\bin\Debug\net6.0\primenum.runtimeconfig.json
+C:\Users\ASUS\source\repos\primenum\primenum\bin\Debug\net6.0\primenum.dll
+C:\Users\ASUS\source\repos\primenum\primenum\bin\Debug\net6.0\primenum.pdb
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\primenum.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\primenum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\primenum.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\primenum.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\primenum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\primenum.dll
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\refint\primenum.dll
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\primenum.pdb
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\primenum.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\primenum\primenum\obj\Debug\net6.0\ref\primenum.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\bin\Debug\net6.0\primenum.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\bin\Debug\net6.0\primenum.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\bin\Debug\net6.0\primenum.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\bin\Debug\net6.0\primenum.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\bin\Debug\net6.0\primenum.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\primenum.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\primenum.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\primenum.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\primenum.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\primenum.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\primenum.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\refint\primenum.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\primenum.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\primenum.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\primenum\primenum\obj\Debug\net6.0\ref\primenum.dll

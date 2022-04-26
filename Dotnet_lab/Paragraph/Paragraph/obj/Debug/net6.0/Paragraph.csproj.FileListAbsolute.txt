@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\bin\Debug\net6.0\Paragraph.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\bin\Debug\net6.0\Paragraph.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\bin\Debug\net6.0\Paragraph.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\bin\Debug\net6.0\Paragraph.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\bin\Debug\net6.0\Paragraph.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\Paragraph.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\Paragraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\Paragraph.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\Paragraph.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\Paragraph.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\Paragraph.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\refint\Paragraph.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\Paragraph.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\Paragraph.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Paragraph\Paragraph\obj\Debug\net6.0\ref\Paragraph.dll

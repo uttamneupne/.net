@@ -1,0 +1,30 @@
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\Display sum.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\Display sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\Display sum.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\Display sum.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\Display sum.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Display sum\Display sum\bin\Debug\net6.0\Display sum.exe
+C:\Users\ASUS\source\repos\Display sum\Display sum\bin\Debug\net6.0\Display sum.deps.json
+C:\Users\ASUS\source\repos\Display sum\Display sum\bin\Debug\net6.0\Display sum.runtimeconfig.json
+C:\Users\ASUS\source\repos\Display sum\Display sum\bin\Debug\net6.0\Display sum.dll
+C:\Users\ASUS\source\repos\Display sum\Display sum\bin\Debug\net6.0\Display sum.pdb
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\Display sum.dll
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\refint\Display sum.dll
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\Display sum.pdb
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\Display sum.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Display sum\Display sum\obj\Debug\net6.0\ref\Display sum.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\bin\Debug\net6.0\Display sum.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\bin\Debug\net6.0\Display sum.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\bin\Debug\net6.0\Display sum.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\bin\Debug\net6.0\Display sum.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\bin\Debug\net6.0\Display sum.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\Display sum.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\Display sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\Display sum.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\Display sum.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\Display sum.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\Display sum.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\refint\Display sum.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\Display sum.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\Display sum.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\Display sum\Display sum\obj\Debug\net6.0\ref\Display sum.dll

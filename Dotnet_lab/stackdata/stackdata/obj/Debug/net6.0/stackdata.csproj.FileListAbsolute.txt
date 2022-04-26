@@ -1,0 +1,15 @@
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\bin\Debug\net6.0\stackdata.exe
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\bin\Debug\net6.0\stackdata.deps.json
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\bin\Debug\net6.0\stackdata.runtimeconfig.json
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\bin\Debug\net6.0\stackdata.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\bin\Debug\net6.0\stackdata.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\stackdata.csproj.AssemblyReference.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\stackdata.GeneratedMSBuildEditorConfig.editorconfig
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\stackdata.AssemblyInfoInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\stackdata.AssemblyInfo.cs
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\stackdata.csproj.CoreCompileInputs.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\stackdata.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\refint\stackdata.dll
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\stackdata.pdb
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\stackdata.genruntimeconfig.cache
+D:\lict\6th sem\dotnet\Dotnet_lab\stackdata\stackdata\obj\Debug\net6.0\ref\stackdata.dll
